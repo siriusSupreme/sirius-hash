@@ -1,6 +1,6 @@
 <?php
 
-namespace Illuminate\Hashing;
+namespace Sirius\Hash;
 
 use RuntimeException;
 use Sirius\Hash\Contracts\Hasher as HasherContract;
